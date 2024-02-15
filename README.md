@@ -5,7 +5,6 @@
 <br><br>
 <pre>
     💻 Network and IT Systems • DevOps 
-    📖 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Code • Art
     🐾 Moonlight Tora 🌘🐯🌒
 </pre>
