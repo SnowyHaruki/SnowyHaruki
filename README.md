@@ -10,6 +10,6 @@
     🐾 Moonlight Tora 🌘🐯🌒
 </pre>
 <br><br>
-<img src="" height="40" />
+<img src="https://github.com/SnowyHaruki/SnowyHaruki/blob/main/assets/tiger.gif" height="40" />
 <br><br><br>
 </div>
